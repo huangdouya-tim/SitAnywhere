@@ -1,0 +1,4 @@
+name: sit anywhere
+version: '1.0-SNAPSHOT'
+main: com.xiahua.sitAnywhere.SitAnywhere
+api-version: '1.18'
